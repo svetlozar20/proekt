@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\stefan_proekt\\PRS\\termPaper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4DFAD7FE-DFCB-4365-8495-C9CF4E90E6F1}|termPaper.Tests\\termPaper.Tests.csproj|d:\\stefan_proekt\\prs\\termpaper\\termpaper.tests\\controllertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DFAD7FE-DFCB-4365-8495-C9CF4E90E6F1}|termPaper.Tests\\termPaper.Tests.csproj|solutionrelative:termpaper.tests\\controllertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5018D0D9-BC90-4EF4-A188-8D96736F987A}|termPaper\\termPaper.csproj|d:\\stefan_proekt\\prs\\termpaper\\termpaper\\controllers\\subscriptionprocessorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5018D0D9-BC90-4EF4-A188-8D96736F987A}|termPaper\\termPaper.csproj|solutionrelative:termpaper\\controllers\\subscriptionprocessorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5018D0D9-BC90-4EF4-A188-8D96736F987A}|termPaper\\termPaper.csproj|d:\\stefan_proekt\\prs\\termpaper\\termpaper\\models\\updaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5018D0D9-BC90-4EF4-A188-8D96736F987A}|termPaper\\termPaper.csproj|solutionrelative:termpaper\\models\\updaterequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5018D0D9-BC90-4EF4-A188-8D96736F987A}|termPaper\\termPaper.csproj|d:\\stefan_proekt\\prs\\termpaper\\termpaper\\data\\mockdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5018D0D9-BC90-4EF4-A188-8D96736F987A}|termPaper\\termPaper.csproj|solutionrelative:termpaper\\data\\mockdatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5018D0D9-BC90-4EF4-A188-8D96736F987A}|termPaper\\termPaper.csproj|d:\\stefan_proekt\\prs\\termpaper\\termpaper\\payloads.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5018D0D9-BC90-4EF4-A188-8D96736F987A}|termPaper\\termPaper.csproj|solutionrelative:termpaper\\payloads.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5018D0D9-BC90-4EF4-A188-8D96736F987A}|termPaper\\termPaper.csproj|d:\\stefan_proekt\\prs\\termpaper\\termpaper\\models\\actdetailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5018D0D9-BC90-4EF4-A188-8D96736F987A}|termPaper\\termPaper.csproj|solutionrelative:termpaper\\models\\actdetailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5018D0D9-BC90-4EF4-A188-8D96736F987A}|termPaper\\termPaper.csproj|d:\\stefan_proekt\\prs\\termpaper\\termpaper\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5018D0D9-BC90-4EF4-A188-8D96736F987A}|termPaper\\termPaper.csproj|solutionrelative:termpaper\\models\\document.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5018D0D9-BC90-4EF4-A188-8D96736F987A}|termPaper\\termPaper.csproj|d:\\stefan_proekt\\prs\\termpaper\\termpaper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5018D0D9-BC90-4EF4-A188-8D96736F987A}|termPaper\\termPaper.csproj|solutionrelative:termpaper\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5018D0D9-BC90-4EF4-A188-8D96736F987A}|termPaper\\termPaper.csproj|d:\\stefan_proekt\\prs\\termpaper\\termpaper\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5018D0D9-BC90-4EF4-A188-8D96736F987A}|termPaper\\termPaper.csproj|solutionrelative:termpaper\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5018D0D9-BC90-4EF4-A188-8D96736F987A}|termPaper\\termPaper.csproj|d:\\stefan_proekt\\prs\\termpaper\\termpaper\\termpaper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5018D0D9-BC90-4EF4-A188-8D96736F987A}|termPaper\\termPaper.csproj|solutionrelative:termpaper\\termpaper.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UpdateRequest.cs",
+              "DocumentMoniker": "D:\\stefan_proekt\\PRS\\termPaper\\termPaper\\Models\\UpdateRequest.cs",
+              "RelativeDocumentMoniker": "termPaper\\Models\\UpdateRequest.cs",
+              "ToolTip": "D:\\stefan_proekt\\PRS\\termPaper\\termPaper\\Models\\UpdateRequest.cs",
+              "RelativeToolTip": "termPaper\\Models\\UpdateRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T20:35:02.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControllerTests.cs",
+              "DocumentMoniker": "D:\\stefan_proekt\\PRS\\termPaper\\termPaper.Tests\\ControllerTests.cs",
+              "RelativeDocumentMoniker": "termPaper.Tests\\ControllerTests.cs",
+              "ToolTip": "D:\\stefan_proekt\\PRS\\termPaper\\termPaper.Tests\\ControllerTests.cs",
+              "RelativeToolTip": "termPaper.Tests\\ControllerTests.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAqwFgAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-02T19:35:09.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Payloads.txt",
+              "DocumentMoniker": "D:\\stefan_proekt\\PRS\\termPaper\\termPaper\\Payloads.txt",
+              "RelativeDocumentMoniker": "termPaper\\Payloads.txt",
+              "ToolTip": "D:\\stefan_proekt\\PRS\\termPaper\\termPaper\\Payloads.txt",
+              "RelativeToolTip": "termPaper\\Payloads.txt",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-01-04T14:02:53.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\stefan_proekt\\PRS\\termPaper\\termPaper\\appsettings.json",
+              "RelativeDocumentMoniker": "termPaper\\appsettings.json",
+              "ToolTip": "D:\\stefan_proekt\\PRS\\termPaper\\termPaper\\appsettings.json",
+              "RelativeToolTip": "termPaper\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-04T11:56:45.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SubscriptionProcessorController.cs",
+              "DocumentMoniker": "D:\\stefan_proekt\\PRS\\termPaper\\termPaper\\Controllers\\SubscriptionProcessorController.cs",
+              "RelativeDocumentMoniker": "termPaper\\Controllers\\SubscriptionProcessorController.cs",
+              "ToolTip": "D:\\stefan_proekt\\PRS\\termPaper\\termPaper\\Controllers\\SubscriptionProcessorController.cs",
+              "RelativeToolTip": "termPaper\\Controllers\\SubscriptionProcessorController.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAIwJMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:47:26.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MockDatabase.cs",
+              "DocumentMoniker": "D:\\stefan_proekt\\PRS\\termPaper\\termPaper\\Data\\MockDatabase.cs",
+              "RelativeDocumentMoniker": "termPaper\\Data\\MockDatabase.cs",
+              "ToolTip": "D:\\stefan_proekt\\PRS\\termPaper\\termPaper\\Data\\MockDatabase.cs",
+              "RelativeToolTip": "termPaper\\Data\\MockDatabase.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:44:21.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Document.cs",
+              "DocumentMoniker": "D:\\stefan_proekt\\PRS\\termPaper\\termPaper\\Models\\Document.cs",
+              "RelativeDocumentMoniker": "termPaper\\Models\\Document.cs",
+              "ToolTip": "D:\\stefan_proekt\\PRS\\termPaper\\termPaper\\Models\\Document.cs",
+              "RelativeToolTip": "termPaper\\Models\\Document.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:37:38.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ActDetailRequest.cs",
+              "DocumentMoniker": "D:\\stefan_proekt\\PRS\\termPaper\\termPaper\\Models\\ActDetailRequest.cs",
+              "RelativeDocumentMoniker": "termPaper\\Models\\ActDetailRequest.cs",
+              "ToolTip": "D:\\stefan_proekt\\PRS\\termPaper\\termPaper\\Models\\ActDetailRequest.cs",
+              "RelativeToolTip": "termPaper\\Models\\ActDetailRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:37:36.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\stefan_proekt\\PRS\\termPaper\\termPaper\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "termPaper\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\stefan_proekt\\PRS\\termPaper\\termPaper\\Properties\\launchSettings.json",
+              "RelativeToolTip": "termPaper\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-04T12:25:05.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "termPaper.csproj",
+              "DocumentMoniker": "D:\\stefan_proekt\\PRS\\termPaper\\termPaper\\termPaper.csproj",
+              "RelativeDocumentMoniker": "termPaper\\termPaper.csproj",
+              "ToolTip": "D:\\stefan_proekt\\PRS\\termPaper\\termPaper\\termPaper.csproj",
+              "RelativeToolTip": "termPaper\\termPaper.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-04T11:36:42.631Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

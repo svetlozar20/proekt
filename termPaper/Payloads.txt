@@ -1,0 +1,76 @@
+﻿https://localhost:5062/api/SubscriptionProcessor/GetInformationByActNumberDate
+Sending this will return both documents
+[
+    {
+  "SubscrptionId": "10010600000000000001",
+  "siteID": "001",
+  "documentNumber": "123456",
+  "documentDate": "2023-01-01T00:00:00"
+    },
+    {
+  "SubscrptionId": "10010600000000000001",
+  "siteID": "002",
+  "documentNumber": "7891011",
+  "documentDate": "2023-02-01T00:00:00"
+    }
+]
+
+Sending this will return - Unauthorized access: SubscriptionID is missing.
+[
+    {
+  "siteID": "001",
+  "documentNumber": "123456",
+  "documentDate": "2023-01-01T00:00:00"
+    }
+]
+
+Sending this will return us access denied
+[
+    {
+  "SubscrptionId": "10010600000000000001",
+  "siteID": "invalid",
+  "documentNumber": "123456",
+  "documentDate": "2023-01-01T00:00:00"
+    }
+]
+
+https://localhost:5062/api/SubscriptionProcessor/AddDocument
+Sending this will add a document to the database
+{
+  "SiteCode": "SC123",
+  "RegisterNumber": "RN456",
+  "RegisterDate": "2024-02-01T00:00:00",
+  "Volume": "Vol1",
+  "Page": "15",
+  "Book": "BookA",
+  "ActType": "Transfer",
+  "WorthValue": 100000.50,
+  "WorthValueCurrency": "USD",
+  "Fee": 500.75,
+  "FeeCurrency": "USD"
+}
+https://localhost:5062/api/SubscriptionProcessor/GetInformationByActNumberDate
+with this one we will check if it is added
+[
+    {
+  "SubscrptionId": "10010600000000000001",
+  "siteID": "SC123",
+  "documentNumber": "RN456",
+  "documentDate": "2024-02-01T00:00:00"
+    }
+]
+
+If any error accures in the business logic the server will return a 500
+
+
+https://localhost:5062/api/SubscriptionProcessor/GetAllDocuments
+
+
+https://localhost:5062/api/SubscriptionProcessor/UpdateDocument
+This will update the Document with siteCode of 001
+{
+  "SiteCode": "001",
+  "RegisterNumber": "RN999",
+  "Book": "UpdatedBook",
+  "Fee": 1500.75
+}

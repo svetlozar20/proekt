@@ -1,0 +1,13 @@
+@termPaper_HostAddress = http://localhost:5062
+
+### Test the custom SubscriptionProcessor endpoint
+POST {{termPaper_HostAddress}}/api/SubscriptionProcessor/GetInformationByActNumberDate
+Content-Type: application/json
+Accept: application/json
+
+{
+  "subscriptionID": "10010600000000000001",
+  "siteID": "001",
+  "documentNumber": "123456",
+  "documentDate": "2023-01-01T00:00:00Z"
+}
